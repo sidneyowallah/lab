@@ -35,6 +35,13 @@
     },
     "api-interfaces": {
       "tags": []
+    },
+    "nxt-lab": {
+      "tags": []
+    },
+    "nxt-lab-e2e": {
+      "tags": [],
+      "implicitDependencies": ["nxt-lab"]
     }
   }
 }
